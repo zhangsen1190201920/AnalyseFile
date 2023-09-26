@@ -1,0 +1,1 @@
+gcc ./libdoc.so ./libxls.so main.c -lhs -lstdc++ -lm -l mysqlclient -ldl -o main
